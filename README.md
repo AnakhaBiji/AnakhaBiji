@@ -1,10 +1,5 @@
 ### Hi Guyz 👋
 
-- 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about coding
-- 📫 How to reach me:
-
 
 <!--
 **AnakhaBiji/AnakhaBiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
